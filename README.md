@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeScheffer&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-java%2F&psig=AOvVaw22okGj4Z0T_PL-jcMLkp5N&ust=1683736619025000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCp5erV6P4CFQAAAAAdAAAAABAE">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
