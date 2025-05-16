@@ -15,6 +15,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Power-Apps" height="50" width="40" src="https://camo.githubusercontent.com/b61d72e48616b6f3a949d0c71e28f2148efa7b6556156b4aad6296dfdd89f160/68747470733a2f2f73756d6d697462616a72616368617279612e636f6d2e6e702f77702d636f6e74656e742f75706c6f6164732f323032302f31302f706f7765726170702d323032302d69636f6e2d3130323478313032342e706e67">
 </div>
  
  <br>
