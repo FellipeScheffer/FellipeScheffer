@@ -2,7 +2,7 @@
 
  <div>
   <a href="https://github.com/FellipeScheffer"></a>
-  <p>Me chamo Fellipe, tenho 20 anos e estou cursando o 5° semestre de Sistemas de Informação na Unisinos.</p>
+  <p>Me chamo Fellipe, tenho 20 anos e estou cursando o 6° semestre de Sistemas de Informação na Unisinos.</p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipeScheffer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeScheffer&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
